@@ -1,3 +1,3 @@
-Test 2 orginal text - �ndrat lite i filen
-Test 2 orginal text
+Test 2 orginal text - �ndrat lite i filen
+Test 2 orginal text - ändrat från branch 'test' i VS Code
 Test 2 orginal text
