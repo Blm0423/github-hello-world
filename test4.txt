@@ -1,3 +1,4 @@
-Denna fil 4 är skapad i branch 'test'
-Denna fil 4 är skapad i branch 'test'
-Denna fil 4 är skapad i branch 'test'
+Denna fil 4 Ã¤r skapad i branch 'test'
+Denna fil 4 Ã¤r skapad i branch 'test'
+Denna fil 4 ï¿½r skapad i branch 'test' (ï¿½Ã¤-kommer frÃ¥n notepad)
+En rad till lokalt
