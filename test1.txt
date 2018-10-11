@@ -1,6 +1,9 @@
 Test 1 orginal text
+* Ny rad emellan * från branch 'test'
+Test 1 orginal text - lagt till text i branch 'test'
 
 Test 1 orginal text
 
-Test 1 orginal text
-
+Ny text inlagd från branch 'test'
+Flera rader har lagts till
+så vi måste göra en merge

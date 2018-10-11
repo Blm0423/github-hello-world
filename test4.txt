@@ -1,0 +1,3 @@
+Denna fil 4 är skapad i branch 'test'
+Denna fil 4 är skapad i branch 'test'
+Denna fil 4 är skapad i branch 'test'
